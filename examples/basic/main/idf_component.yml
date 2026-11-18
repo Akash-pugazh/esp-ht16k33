@@ -1,0 +1,4 @@
+dependencies:
+  akash-pugazh/ht16k33:
+    version: "*"
+    override_path: "../../../"

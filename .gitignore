@@ -1,0 +1,5 @@
+test/host/build/
+examples/*/build/
+examples/*/sdkconfig
+examples/*/managed_components/
+examples/*/dependencies.lock

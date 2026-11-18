@@ -1,0 +1,19 @@
+version: "0.1.0"
+description: "HT16K33 LED matrix / 7-segment controller with key scan, on the ESP-IDF i2c_master driver"
+license: "Apache-2.0"
+tags:
+  - ht16k33
+  - led
+  - 7-segment
+  - keypad
+  - i2c
+dependencies:
+  idf: ">=5.2"
+files:
+  exclude:
+    - "test/host/build/**"
+url: "https://github.com/Akash-pugazh/esp-ht16k33"
+repository: "https://github.com/Akash-pugazh/esp-ht16k33.git"
+issues: "https://github.com/Akash-pugazh/esp-ht16k33/issues"
+maintainers:
+  - "Aakash (@Akash-pugazh)"
